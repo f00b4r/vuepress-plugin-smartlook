@@ -1,6 +1,6 @@
-// @ts-nocheck
-import { path } from '@vuepress/shared-utils';
 import { PluginOptionAPI } from "vuepress-types";
+
+const { path } = require("@vuepress/shared-utils");
 
 module.exports = (options: SmartlookOptions = {}): PluginOptionAPI => {
   if (!options.id) {

@@ -2,14 +2,20 @@
   "compilerOptions": {
     "strict": true,
     "esModuleInterop": true,
-    "target": "ES6",
+    "lib": [
+      "ES6",
+      "dom"
+    ],
+    "moduleResolution": "Node",
     "module": "ES6",
+    "target": "ES6",
     "outDir": "dist",
     "sourceMap": false,
     "declaration": false,
     "allowJs": true,
     "typeRoots": [
-      "./node_modules/@types"
+      "./node_modules/@types",
+      "./node_modules/vuepress-types/types"
     ],
     "types": [
       "vuepress-types"
