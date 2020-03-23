@@ -4,6 +4,12 @@
 🌐 <a href="https://f3l1x.io">f3l1x.io</a> | 💻 <a href="https://github.com/f3l1x">f3l1x</a> | 🐦 <a href="https://twitter.com/xf3l1x">@xf3l1x</a>
 </p>
 
+## Installation
+
+```
+npm install --save vuepress-plugin-smartlook
+```
+
 ## Usage
 
 1. Register at [smartlook.com](https://www.smartlook.com/).
