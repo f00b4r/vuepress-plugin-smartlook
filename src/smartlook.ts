@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { EnhanceApp } from "vuepress-types";
 
 export default (({ router }) => {

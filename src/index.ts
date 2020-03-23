@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { path } from '@vuepress/shared-utils';
 import { PluginOptionAPI } from "vuepress-types";
 
