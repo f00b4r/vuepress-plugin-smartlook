@@ -32,7 +32,7 @@
     "@vuepress/shared-utils": "^1.4.0"
   },
   "devDependencies": {
-    "@types/node": "^13.9.3",
+    "@types/node": "^14.0.27",
     "typescript": "^3.8.3",
     "vue-router": "^3.1.6",
     "vuepress-types": "^0.9.0"
