@@ -25,7 +25,8 @@
   "types": "src/types.d.ts",
   "scripts": {
     "build": "tsc",
-    "watch": "tsc --watch"
+    "watch": "tsc --watch",
+    "prepublishOnly": "tsc"
   },
   "dependencies": {
     "@vuepress/shared-utils": "^1.4.0"
