@@ -9,8 +9,8 @@
 </p>
 
 <p align=center>
-	<a href="https://github.com/webkitty/vuepress-plugin-smartlook/actions">
-		<img src="https://badgen.net/github/checks/webkitty/vuepress-plugin-smartlook">
+	<a href="https://github.com/f00b4r/vuepress-plugin-smartlook/actions">
+		<img src="https://badgen.net/github/checks/f00b4r/vuepress-plugin-smartlook">
 	</a>
 	<a href="https://www.npmjs.com/package/vuepress-plugin-smartlook">
 		<img src="https://badgen.net/npm/v/vuepress-plugin-smartlook">
@@ -19,7 +19,7 @@
 		<img src="https://badgen.net/npm/dt/vuepress-plugin-smartlook">
 	</a>
 	<a href="/LICENSE">
-		<img src="https://badgen.net/github/license/webkitty/vuepress-plugin-smartlook">
+		<img src="https://badgen.net/github/license/f00b4r/vuepress-plugin-smartlook">
 	</a>
 </p>
 

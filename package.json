@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webkitty/vuepress-plugin-smartlook"
+    "url": "https://github.com/f00b4r/vuepress-plugin-smartlook"
   },
   "bugs": {
-    "url": "https://github.com/webkitty/vuepress-plugin-smartlook/issues"
+    "url": "https://github.com/f00b4r/vuepress-plugin-smartlook/issues"
   },
   "main": "dist/index.js",
   "types": "src/types.d.ts",
